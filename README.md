@@ -2,6 +2,8 @@
 
 Inspired by [a toot](https://octodon.social/@Tailsteak/109379857000006898) by [Mason "Tailsteak" Williams](http://tailsteak.com/), this is a silly web implementation of an imaginary board game, made while I was unwell ont he morning of 21 November 2022. You can play the game at [DanQ.me/sisyphus-the-game](https://danq.me/sisyphus-the-game).
 
+Insofar as there's an explanation of it, [this blog post might be it](https://danq.me/2022/11/21/sisyphus-game/).
+
 ## How to play
 
 Tap or click to roll the dice. In the unlikely event that you win, there's no animation or celebratory message.
